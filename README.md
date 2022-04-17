@@ -32,3 +32,4 @@ last_digit(10, 10 ** 10)        # returns 0
 last_digit(2 ** 200, 2 ** 300)  # returns 6
 
 https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python
+
