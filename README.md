@@ -23,7 +23,7 @@ For example, the last decimal digit of 979^79
   to be 111.
 
 You may assume that the input will always be valid.
-
+..
 
 Examples
 last_digit(4, 1)                # returns 4
