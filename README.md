@@ -15,6 +15,7 @@ For example, the last decimal digit of 979^79
  ) 
 2 
 300
+
  
  , which has over 109210^{92}10 
 92
